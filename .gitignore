@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node.js
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Sensitive or environment-specific information
+.env
+
+# Cache and temporary files
+.cache/
+.temp/
+.temp-*
+*.swp
+
+# IDE-specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled CSS
+*.css.map
+
+# Logs and debugging files
+log/
+logs/
+debug.log
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Thumbnails
+Thumbs.db
